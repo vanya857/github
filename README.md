@@ -2,12 +2,6 @@
 
  A simple Snake Water Gun game built using Python where the player competes against the computer. The computer randomly selects Snake, Water, or Gun, and the winner is decided based on the game rules. This project is perfect for beginners to practice Python concepts like conditionals, loops, functions, and the random module.
 
-## 🎮 Game Rules:
- •🐍 Snake drinks Water → Snake wins
- •💧 Water drowns Gun → Water wins
- •🔫 Gun kills Snake → Gun wins
- •If both the player and computer choose the same option → Draw
-
 ## 🎮 Game Rules
 
 - Snake drinks Water → Snake wins 🐍
