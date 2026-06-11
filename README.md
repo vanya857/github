@@ -4,20 +4,20 @@
 
 ## 🎮 Game Rules:
  •🐍 Snake drinks Water → Snake wins
-  •💧 Water drowns Gun → Water wins
-   •🔫 Gun kills Snake → Gun wins
-    •If both the player and computer choose the same option → Draw
+ •💧 Water drowns Gun → Water wins
+ •🔫 Gun kills Snake → Gun wins
+ •If both the player and computer choose the same option → Draw
 
 ## ✨ Features:
  •Random computer choice
-  •User-friendly command-line interface
-   •Instant winner declaration
-    •Input validation (if implemented)
-     •Easy to understand and beginner-friendly code
+ •User-friendly command-line interface
+ •Instant winner declaration
+ •Input validation (if implemented)
+ •Easy to understand and beginner-friendly code
 
 ## 🛠️ Technologies Used:
  •Python 3
-  •random module
+ •random module
 
 ## ▶️ How to Run:
  1. Make sure Python 3 is installed on your system.
@@ -27,11 +27,11 @@
 
 ## 📚 Concepts Used:
  •Variables
-  •if / elif / else statements
-   •Functions
-    •Loops
-     •User input
-      •Random number generation
+ •if / elif / else statements
+ •Functions
+ •Loops
+ •User input
+ •Random number generation
 
 ## 👩‍💻 Author:
  Vanya Singh
