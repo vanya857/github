@@ -14,7 +14,7 @@
 - Python 3
 - Random module
 
-## ▶️ How to Run:
+## ▶️ How to Run
  1. Make sure Python 3 is installed on your system.
  2. Download or clone the project.
  3. Open a terminal in the project folder.
@@ -29,5 +29,5 @@
 - User input
 - Random number generation
 
-## 👩‍💻 Author:
+## 👩‍💻 Author
  Vanya Singh
